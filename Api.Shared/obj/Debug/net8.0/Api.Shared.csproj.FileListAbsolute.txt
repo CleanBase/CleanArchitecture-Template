@@ -1,0 +1,12 @@
+D:\Clean-architechture\CleanBase.Template\Api.Shared\bin\Debug\net8.0\Api.Shared.deps.json
+D:\Clean-architechture\CleanBase.Template\Api.Shared\bin\Debug\net8.0\Api.Shared.dll
+D:\Clean-architechture\CleanBase.Template\Api.Shared\bin\Debug\net8.0\Api.Shared.pdb
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\Api.Shared.csproj.AssemblyReference.cache
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\Api.Shared.AssemblyInfoInputs.cache
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\Api.Shared.AssemblyInfo.cs
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\Api.Shared.csproj.CoreCompileInputs.cache
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\Api.Shared.dll
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\refint\Api.Shared.dll
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\Api.Shared.pdb
+D:\Clean-architechture\CleanBase.Template\Api.Shared\obj\Debug\net8.0\ref\Api.Shared.dll
